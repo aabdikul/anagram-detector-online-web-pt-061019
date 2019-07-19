@@ -20,4 +20,5 @@ class Anagram
   end
     return array
   end
+  
 end
