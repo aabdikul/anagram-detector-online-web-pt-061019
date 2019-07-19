@@ -20,13 +20,4 @@ class Anagram
   end
     return array
   end
-
-    #self.word_match.chars.sort.join
-
-    #if ## == self.word_match.chars.sort.join
-    #  return input
-    #else
-      #return []
-    #end
-  #end
 end
